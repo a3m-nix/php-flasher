@@ -39,7 +39,7 @@
             "Flasher\\Prime\\": ""
         },
         "files": [
-            "flasher.php"
+            "flasher_helper.php"
         ]
     },
     "config": {
